@@ -1,0 +1,24 @@
+.dashboard-table{
+    // width: 80%;
+    margin: 0 auto;
+    border-collapse: collapse;
+    border: 1px solid #ddd;
+    font-size: 18px;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+/* table.component.scss */
+
+.dashboard-table {
+    .table {
+      width: 100%;
+    }
+  
+    .avatar {
+      width: 40px;
+      height: 40px;
+      border-radius: 50%;
+    }
+  }
+  

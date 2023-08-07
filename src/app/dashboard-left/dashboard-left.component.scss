@@ -1,0 +1,12 @@
+
+
+
+.box-row{
+    display: flex;
+    max-width: 100%;
+    flex-direction: row;
+    gap: 0.5rem;
+    // flex-wrap: wrap;
+    justify-content: space-between;
+
+}
